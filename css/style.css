@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.container{
+   
+    margin: auto;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+   width: 350px;
+   height: 500px;
+   border-radius: 20px;
+   padding: 20px;
+   overflow: hidden;
+   text-align: center;
+   background-color:hsl(0, 0%, 100%);
+
+
+}
+img{
+    width: 300px;
+    border-radius: 20px;
+    margin-bottom: 1rem;
+}
+p{
+    margin-top: 20px;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%) ;
+}
+h2{
+    color:  hsl(218, 44%, 22%);
+}
+footer{
+    text-align: center;
+}
